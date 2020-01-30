@@ -69,7 +69,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 100
+  far clip plane: 1000
   field of view: 55
   orthographic: 0
   orthographic size: 5
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookDampFactor: 0
   movementDampFactor: 0
-  nearestZoom: 10
+  nearestZoom: 15
   furthestZoom: 40
   maxZoom: 60
   zoomLogFactor: 10
@@ -135,10 +135,10 @@ MonoBehaviour:
   zoomedCamAngle: {fileID: 4018436300913226}
   mapSize:
     serializedVersion: 2
-    x: -23.418337
-    y: -16.404783
-    width: 44.663822
-    height: 41.647583
+    x: -23.42069
+    y: -16.405767
+    width: 44.668655
+    height: 41.65248
   springyZoom: 0
 --- !u!114 &114491678686253812
 MonoBehaviour:
