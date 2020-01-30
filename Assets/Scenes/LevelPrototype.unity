@@ -2023,6 +2023,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114623870853810010, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114694916394249744, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 223991189361826780, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 223991189361826780, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
+        type: 3}
+      propertyPath: m_OverrideSorting
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 224176417992533086, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -5352,6 +5372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Build Menu
       objectReference: {fileID: 0}
+    - target: {fileID: 1473717393142542, guid: c2e9adc0fa208453ebebb129fa7c880d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 224338598592107288, guid: c2e9adc0fa208453ebebb129fa7c880d,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -5858,22 +5882,22 @@ PrefabInstance:
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.x
-      value: -30.459324
+      value: -30.386806
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.y
-      value: -28.758553
+      value: -28.721289
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.width
-      value: 39.163002
+      value: 39.09378
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.height
-      value: 45.452797
+      value: 45.415535
       objectReference: {fileID: 0}
     - target: {fileID: 114555595464069464, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}

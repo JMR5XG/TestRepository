@@ -10,8 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5865308366657071831}
   - component: {fileID: 8516311594387315813}
-  - component: {fileID: -7719753571069484972}
-  - component: {fileID: 2451074120811333231}
   m_Layer: 0
   m_Name: BulletTower_2
   m_TagString: Untagged
@@ -55,32 +53,6 @@ MonoBehaviour:
   buildEffectPrefab: {fileID: 1395313577031670, guid: c559c1920b5d04e6d83aa4464fba5c68,
     type: 3}
   levelData: {fileID: 11400000, guid: 4b517d6fce788f64ca0b3202a0cc507b, type: 2}
---- !u!114 &-7719753571069484972
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 205199025346475097}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59d007c1fe5e41c1888e4af3392f8676, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  initialPoolCapacity: 10
---- !u!135 &2451074120811333231
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 205199025346475097}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &4309593150407547350
 GameObject:
   m_ObjectHideFlags: 0

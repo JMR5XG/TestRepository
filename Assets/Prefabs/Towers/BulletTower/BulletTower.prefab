@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2927648007831645339}
   - component: {fileID: -5886622210076747277}
   - component: {fileID: -8038803670250480284}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BulletTower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,6 +74,7 @@ MonoBehaviour:
   targetTransform: {fileID: 0}
   levels:
   - {fileID: 8516311594387315813, guid: ac06e085d2ada9d41bb217f7c7b64b3b, type: 3}
+  - {fileID: 8516311594387315813, guid: 3cb4ca86437f2444997f39b84b673d02, type: 3}
   towerName: Bullet Tower
   dimensions:
     x: 2
@@ -92,8 +93,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.8, y: 0.5, z: 1.8}
+  m_Center: {x: 0, y: 0.25, z: 0}
 --- !u!114 &2927648007831645339
 MonoBehaviour:
   m_ObjectHideFlags: 0
