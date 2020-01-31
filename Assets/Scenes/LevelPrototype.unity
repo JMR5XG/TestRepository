@@ -3071,30 +3071,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TowerControllerUI
       objectReference: {fileID: 0}
-    - target: {fileID: 1695329477412330, guid: 4eadf710c1ae841f9aea598e5ca2f8c7, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114623870853810010, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114694916394249744, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 223991189361826780, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 223991189361826780, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
-        type: 3}
-      propertyPath: m_OverrideSorting
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 224176417992533086, guid: 4eadf710c1ae841f9aea598e5ca2f8c7,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -8384,40 +8360,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 114299858145598432, guid: 28035762430e74813854d9ca46df3ebd,
+    - target: {fileID: 20447090949672786, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
-      propertyPath: initialLookAt
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 114299858145598432, guid: 28035762430e74813854d9ca46df3ebd,
-        type: 3}
-      propertyPath: startZoomMode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
-        type: 3}
-      propertyPath: nearestZoom
-      value: 15
+      propertyPath: m_ClearFlags
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.x
-      value: -23.418522
+      value: -23.418167
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.y
-      value: -16.404877
+      value: -16.374506
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.width
-      value: 44.664223
+      value: 44.599022
       objectReference: {fileID: 0}
     - target: {fileID: 114348589391522652, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
       propertyPath: mapSize.height
-      value: 41.647995
+      value: 41.578514
+      objectReference: {fileID: 0}
+    - target: {fileID: 114396145335444582, guid: 28035762430e74813854d9ca46df3ebd,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114555595464069464, guid: 28035762430e74813854d9ca46df3ebd,
         type: 3}
